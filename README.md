@@ -18,3 +18,5 @@ There is also an Iris class that has some commonly used functions:
 ##License
 
 Apache 2.0
+
+<img src="http://i.imgur.com/fV5E45O.png" width="50px" height="50px"/>
