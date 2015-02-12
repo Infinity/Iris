@@ -1,6 +1,8 @@
 #Iris
 
-A pure Java port of the Android Palette library with no external dependencies.
+Iris is used to get colors from images. It can get vibrant colors, muted colors, etc.
+
+It's a pure Java port of the Android Palette library with no external dependencies.
 See the [Android Palette Docs](https://developer.android.com/reference/android/support/v7/graphics/Palette.html) for more information on what Palette does.
 
 ##Usage
