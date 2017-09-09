@@ -1,11 +1,11 @@
-#Iris
+# Iris
 
 Iris is used to get colors from images. It can get vibrant colors, muted colors, etc.
 
 It's a pure Java port of the Android Palette library with no external dependencies.
 See the [Android Palette Docs](https://developer.android.com/reference/android/support/v7/graphics/Palette.html) for more information on what Palette does.
 
-##Usage
+## Usage
 
 You can use Palette directly (again, see the [Palette docs](https://developer.android.com/reference/android/support/v7/graphics/Palette.html) for more info).
 
@@ -15,7 +15,7 @@ There is also an Iris class that has some commonly used functions:
 
 `getColor(String url, String defaultColor)` gets an image from a URL and calls the above method.
 
-##License
+## License
 
 Apache 2.0
 
